@@ -10,3 +10,6 @@ For additional information about aria2c check the following links
 - [aria2](https://aria2.github.io/)
 - [aria2 Documentation (en)](https://aria2.github.io/manual/en/html/index.html)
 - [RPC-Interface Methods](https://aria2.github.io/manual/en/html/aria2c.html#rpc-interface)
+
+
+Pull requests are welcome ;)

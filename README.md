@@ -8,5 +8,5 @@ It was mainly used for torrent handling provided by aria2c therefore the `addMag
 
 For additional information about aria2c check the following links
 - [aria2](https://aria2.github.io/)
-- [RPC-Interface Documentation](https://aria2.github.io/manual/en/html/aria2c.html#rpc-interface)
 - [aria2 Documentation (en)](https://aria2.github.io/manual/en/html/index.html)
+- [RPC-Interface Methods](https://aria2.github.io/manual/en/html/aria2c.html#rpc-interface)

@@ -1,3 +1,6 @@
+# What is aria2?
+aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. https://aria2.github.io/
+
 # Aria2c XML-RPC
 Aria2 XML-RPC Methods for Python3 uses the xmlrpc.client library as suggested by [aria2c documentation](https://aria2.github.io/)
 

@@ -137,8 +137,10 @@ class aria2:
             response = self.s.aria2.tellActive('token:'+self.secret,keys)
         else:
             response = self.s.aria2.tellActive(keys)
-        response = self.__convertTo(response,unit)
-        return response
+        all_results = []
+        for i in range(len(response)):
+            all_results.append(self.__convertTo(response[i],unit=unit))
+        return all_results
 
 
     def status(self,gid,keys=["gid","status","totalLength","completedLength","downloadSpeed","uploadSpeed"],unit='MB'):
